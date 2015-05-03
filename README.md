@@ -5,9 +5,10 @@ Analyse big dataset with hadoop mapreduce
 
 refer to assignment1_handout.pdf for detailed requirement
  
-##Requirement
-Hadoop 2.6.0 is 
-##Steps to run the project:
+##How to run
+###requirement
+Hadoop 2.6.0  
+###Steps 
 1. hdfs dfs -mkdir photo
    upload the data to it with 
 2. set A1_HOME environment variable to store the intermidiate output for each jobs
