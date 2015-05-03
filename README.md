@@ -5,8 +5,8 @@ Analyse big dataset with hadoop mapreduce
 
 refer to assignment1_handout.pdf for detailed requirement
  
-###
-Hadoop 2.6.0 is necessary to run the project
+##Requirement
+Hadoop 2.6.0 is 
 ##Steps to run the project:
 1. hdfs dfs -mkdir photo
    upload the data to it with 
