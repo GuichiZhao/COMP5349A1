@@ -3,7 +3,7 @@
 ###
 Analyse big dataset with hadoop mapreduce
 
-refer to assignment1_handout.pdf for detailed requirement
+Refer to assignment1_handout.pdf for detailed requirement
  
 ##How to run
 ###requirement
